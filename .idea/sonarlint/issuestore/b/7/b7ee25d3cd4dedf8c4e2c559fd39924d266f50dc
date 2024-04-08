@@ -1,0 +1,8 @@
+
+r
+java:S1104"UMake bookShelf a static final constant or non-public and provide accessors if needed.(Ñş´²8®Üà¾ë1
+n
+java:S1104"QMake index a static final constant or non-public and provide accessors if needed.(ƒÇ¨Š8¯Üà¾ë1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö·Ú²8°Üà¾ë1
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(Ë§ÆÓ8¸Üà¾ë1
