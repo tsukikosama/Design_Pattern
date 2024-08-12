@@ -1,4 +1,4 @@
-package org.ccsama.Iterator_Pattern;
+package org.ccsama.Iterator;
 
 public class Main {
     public static void main(String[] args) {

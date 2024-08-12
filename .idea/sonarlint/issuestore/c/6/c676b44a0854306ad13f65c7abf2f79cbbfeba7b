@@ -1,7 +1,5 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÅØé
-L	java:S106"+Replace this use of System.out by a logger.(²ø‘½ûÿÿÿÿ8È¢Ò¿ë1
-G	java:S106"+Replace this use of System.out by a logger.(›È8şªÓ¿ë1
-T
-java:S1144
-"2Remove this unused private "showWithParen" method.(ÿ‹Ñ‰şÿÿÿÿ8¨ÎÉ¿ë1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÅØé8à²é¿ë1
+L	java:S106"+Replace this use of System.out by a logger.(²ø‘½ûÿÿÿÿ8å²é¿ë1
+G	java:S106"+Replace this use of System.out by a logger.(›È8æ²é¿ë1
+G	java:S106"+Replace this use of System.out by a logger.(õï½«8æ²é¿ë1
